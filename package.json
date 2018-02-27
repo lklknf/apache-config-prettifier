@@ -1,0 +1,26 @@
+{
+  "name": "apache_config_prettifier",
+  "version": "1.0.0",
+  "description": "this script does very basic prettyfying of apache files, please report any issues on the github",
+  "main": "apache_config_prettifier.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [
+    "apache",
+    "httpd",
+    "prettifier",
+    "formatter",
+    "config"
+  ],
+  "author": "lklknf",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/lklknf/apache-config-prettifier.git"
+  },
+  "bugs": {
+    "url": "https://github.com/lklknf/apache-config-prettifier/issues"
+  },
+  "homepage": "https://github.com/lklknf/apache-config-prettifier#readme"
+}

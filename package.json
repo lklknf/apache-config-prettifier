@@ -1,7 +1,7 @@
 {
   "name": "apache_config_prettifier",
   "version": "1.0.1",
-  "description": "this script does very basic prettyfying of apache files, please report any issues on the github",
+  "description": "This script does very basic prettyfying of apache configs, please report any issues on the github.",
   "main": "apache_config_prettifier.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
